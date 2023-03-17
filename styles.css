@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#title{
+    text-align: left;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    Color: Black;
+
+}
+
+.titleBackground{
+    background-color: rgb(255, 181, 230);
+    align-items: center;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+
+svg{
+    background-color: bisque;
+    min-width: 1000px;
+    min-height: 600px;
+
+}
