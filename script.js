@@ -71,17 +71,7 @@ let drawMap = () => {
        
     
     
-        // .on('mouseover', (ntaDataItem) =>{
-        //     tooltip.transition()
-        //         .style('visibility', 'visible')
-
-        //     let id = ntaDataItem['id']
-        //     let nta = violationData.find((item) => {
-        //         return item.ntaname === ntaname
-        //     })
-            
-        //     tooltip.text(nta['ntaname'] + ' - ' + )
-        // })
+       
 };
 
 // Function to async load the violation data for a specific year 
