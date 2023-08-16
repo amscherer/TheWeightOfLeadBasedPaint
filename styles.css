@@ -46,7 +46,7 @@ h3 {
 }
 
 span.goal{
-  font-size: 40px;
+  font-size: 30px;
   font-style: italic;
   font-family: 'Be Vietnam Pro', sans-serif;
   text-align: center;
@@ -119,10 +119,10 @@ p.processphotostext2{
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  height: 600px; 
+  height: 500px; 
   margin-left: 20%;
   margin-right: 20%;
-  background-color: #eec2ff;
+  /* background-color: #eec2ff; */
   
 }
 img.housecoatphotos{
@@ -131,11 +131,23 @@ img.housecoatphotos{
   justify-content: center;
   align-items: center;
 }
-
+#smallPhoto1{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+img.smallPhoto{
+  max-height: 100px;
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+}
 #mapSection{
   text-align: center;
   font-family: 'Moo Lah Lah', cursive;
-
 }
 
 #mapSubheader{
